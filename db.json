@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 900",
+      "precio": "600",
+      "id": 4
+    },
+    {
+      "nombre": "Nuevo producto",
+      "precio": 45,
+      "id": 5
+    },
+    {
+      "nombre": "rte",
+      "precio": 456,
+      "id": 6
+    }
+  ]
+}
